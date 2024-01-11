@@ -8,14 +8,11 @@ https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Education
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/MEducation.mpd
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Education
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Mongol HD
 https://cdn1.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Education
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",VolumePlus
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Education
-https://cdn1.skygo.mn/live/disk1/MIR/DASH-FTA/MIR.mpd
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Malchin
 https://cdn1.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
