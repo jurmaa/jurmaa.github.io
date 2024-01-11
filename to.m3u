@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Jurmaa 1
-https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
+https://p2-edge1.looktv.mn/session/13de1f1c-b09b-11ee-89e7-000c29500727/e8k4to/__cl/cg:live/__c/EDUTV/__op/dash-default/__f/0/720p/D306898045920000.cmfv
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Moviebox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
