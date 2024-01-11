@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Mongolia HD
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Jurmaa 1
 https://cdn4.skygo.mn/live/disk1/Skymedia/DASH-FTA/Skymedia.mpd
