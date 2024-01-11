@@ -16,8 +16,20 @@ https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Education
 https://cdn1.skygo.mn/live/disk1/MIR/DASH-FTA/MIR.mpd
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",ᠮᠠᠯᠴᠢᠨ
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Malchin
 https://cdn1.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-https://cdn1.skygo.mn/live/disk1/MIR/DASH-FTA/MIR.mpd
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Suld
 https://cdn1.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",TV8 HD
+https://cdn1.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",NTV HD
+https://cdn1.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",SPSWorld
+https://cdn.skygo.mn/live/disk1/SPSWORLD/DASH-FTA/SPSWORLD.mpd
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",AsianBOX
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
