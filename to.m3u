@@ -1,35 +1,24 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",MNB Sport
+
+MNB Sport
 https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Moviebox
+Moviebox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Education
+Education
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/MEducation.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Mongol HD
+Mongol HD
 https://cdn1.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",VolumePlus
+VolumePlus
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Malchin
+Malchin
 https://cdn1.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Suld
+Suld
 https://cdn1.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",TV8 HD
+TV8 HD
 https://cdn1.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",NTV HD
+NTV HD
 https://cdn1.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",SPSWorld
+SPSWorld
 https://cdn.skygo.mn/live/disk1/SPSWORLD/DASH-FTA/SPSWORLD.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",AsianBOX
+AsianBOX
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml"
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",
 https://p3-edge1.looktv.mn/session/9c90cb44-b0a9-11ee-9c34-000c29500727/e8k4to/__cl/cg:live/__c/UniSports2/__op/dash-default/__f/manifest.mpd
