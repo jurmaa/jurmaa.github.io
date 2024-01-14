@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Sports",MNB Sport
 https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTINF:-1 tvg-id="MovieBox.mn" tvg-logo="https://i.imgur.com/xeO1Zb4.png" group-title="Movies",MovieBox
+#EXTINF:-1 tvg-id="MovieBox.mn" tvg-logo="https://www.goplus.mn/images/repository/841/841-LOGO-m.png" group-title="Movies",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 tvg-id="eduTV.mn" tvg-logo="https://i.imgur.com/0m8t3vh.png" group-title="Undefined",Education 
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/MEducation.mpd
