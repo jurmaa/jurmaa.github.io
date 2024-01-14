@@ -22,3 +22,7 @@ https://cdn.skygo.mn/live/disk1/SPSWORLD/DASH-FTA/SPSWORLD.mpd
 AsianBOX
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 https://p3-edge1.looktv.mn/session/9c90cb44-b0a9-11ee-9c34-000c29500727/e8k4to/__cl/cg:live/__c/UniSports2/__op/dash-default/__f/manifest.mpd
+#EXTINF:-1 ,NMTV 1
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+#EXTINF:-1 ,NMTV 2
+https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
