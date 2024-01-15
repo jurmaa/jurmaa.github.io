@@ -37,7 +37,9 @@ https://cdn1.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
 #EXTINF:-1 tvg-id="C1.mn" tvg-logo="https://i.imgur.com/v1mHG5x.png" group-title="Undefined",C1
 https://cdn1.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ETV
-https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpdhttps://cdn1.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+#EXTINF:-1 ,VTV
+https://cdn1.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
 #EXTINF:-1 tvg-id="SBN.mn" tvg-logo="https://i.imgur.com/E3fvpwn.png" group-title="Undefined",SBN
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 ,TM
