@@ -2,8 +2,6 @@
 https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1 tvg-id="MovieBox.mn" tvg-logo="https://www.goplus.mn/images/repository/841/841-LOGO-m.png" group-title="Movies",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTINF:-1 tvg-id="eduTV.mn" tvg-logo="https://i.imgur.com/0m8t3vh.png" group-title="Undefined",Education 
-https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/MEducation.mpd
 #EXTINF:-1，Mongol HD
 https://cdn1.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
 #EXTINF:-1，Khugjim
