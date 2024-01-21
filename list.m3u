@@ -84,5 +84,6 @@ https://cdn.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
 #EXTINF:-1 ,GTV
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
-
+#EXTINF:-1 ,SPSPlay
+https://cdn1.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 
