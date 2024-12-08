@@ -3,7 +3,7 @@ https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1 tvg-id="MovieBox.mn" tvg-logo="https://i.imgur.com/xeO1Zb4.png" group-title="Movies",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 ,Mongol HD
-https://cdn1.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
+https://cdn4.skygo.mn/live/disk1/Mongol_HD/DASH-FTA/Mongol_HD.mpd
 #EXTINF:-1 ,Khugjim
 https://cdn4.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1 ,Malchin
