@@ -13,7 +13,7 @@ https://cdn1.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
 #EXTINF:-1 ,Suld
 https://cdn2.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-id="TV8.mn" tvg-logo="https://i.imgur.com/EguOdxW.png" group-title="Undefined",TV8
-https://cdn1.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
 #EXTINF:-1 tvg-id="NTV.mn" tvg-logo="https://i.imgur.com/2JbqbPY.png" group-title="Undefined",NTV 
 https://cdn2.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
 #EXTINF:-1 ,AsianBOX
@@ -55,11 +55,11 @@ https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
 #EXTINF:-1 tvg-id="MNBMongoliinMedee.mn" tvg-logo="https://i.imgur.com/KUvJzUD.png" group-title="Undefined",MNB Монголын Мэдээ
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 #EXTINF:-1 ,MNB_World
-https://cdn1.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+https://cdn3.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MNB Гэр бүл
-https://cdn1.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
+https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
 #EXTINF:-1 ,Dreambox
-https://cdn1.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
+https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Mongolia HD
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1 tvg-id="ONTV.mn" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="Undefined",ONTV
@@ -67,7 +67,7 @@ https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 #EXTINF:-1 ,Channel11
 https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
 #EXTINF:-1 ,MNCTV
-https://cdn1.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
+https://cdn2.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 ,UlziiTV
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1 ,TaliinMGLTV
@@ -77,11 +77,11 @@ https://cdn1.skygo.mn/live/disk1/TV6/DASH-FTA/TV6.mpd
 #EXTINF:-1 ,TV7
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1 ,SoyonGegeeruulegch
-https://cdn1.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
+https://cdn3.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
 #EXTINF:-1 ,TV4
-https://cdn1.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
+https://cdn3.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
 #EXTINF:-1 ,Parlament
-https://cdn.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+https://cdn3.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 ,AutoTV
 https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
 #EXTINF:-1 ,GTV
