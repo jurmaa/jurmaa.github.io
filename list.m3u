@@ -45,7 +45,7 @@ https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
 #EXTINF:-1 ,MNplus
 https://cdn2.skygo.mn/live/disk1/MNplus91/DASH-FTA/MNplus91.mpd
 #EXTINF:-1 tvg-id="MNB.mn" tvg-logo="https://i.imgur.com/RdRd0to.png" group-title="Undefined",MNB
-https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
+https://cdn.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
 #EXTINF:-1 tvg-id="StarTV.mn" tvg-logo="https://i.imgur.com/R6hxJgl.png" group-title="Undefined",Star TV
 https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 #EXTINF:-1 tvg-id="TV9.mn" tvg-logo="https://i.imgur.com/QFteAgd.png" group-title="Undefined",TV9
