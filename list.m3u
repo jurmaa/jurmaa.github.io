@@ -29,7 +29,7 @@ https://cdn2.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
 #EXTINF:-1 tvg-id="eduTV.mn" tvg-logo="https://i.imgur.com/0m8t3vh.png" group-title="Undefined",Education
 https://cdn3.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Central
-https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
+https://cdn2.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
 #EXTINF:-1 tvg-id="EagleNews.mn" tvg-logo="https://i.imgur.com/2oqXpve.jpg" group-title="News",Eagle News HD (1080p)
 https://cdn2.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
 #EXTINF:-1 tvg-id="C1.mn" tvg-logo="https://i.imgur.com/v1mHG5x.png" group-title="Undefined",C1
