@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Sports",MNB Sport
 https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1 tvg-id="MovieBox.mn" tvg-logo="https://i.imgur.com/xeO1Zb4.png" group-title="Movies",MovieBox
-https://list.iptvcat.com/my_list/s/ca4e8fc080866dc8fe64dcf5d56031e7.m3u8
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF:-1 ,Mongol HD
 https://cdn2.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
 #EXTINF:-1 ,Mongol HD
