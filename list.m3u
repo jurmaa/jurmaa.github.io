@@ -11,7 +11,7 @@ https://cdn2.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1 ,Malchin
 https://cdn3.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
 #EXTINF:-1 ,NMTV 1
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880&token=ecfb29643c2442fd8b4a0d4a374e07f8
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8
 #EXTINF:-1 ,Suld
 https://cdn2.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-id="TV8.mn" tvg-logo="https://i.imgur.com/EguOdxW.png" group-title="Undefined",TV8
