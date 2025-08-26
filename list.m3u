@@ -33,7 +33,7 @@ https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
 #EXTINF:-1 tvg-id="ETV.mn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/512px-ETV_Mongolia_logo.png" group-title="Undefined",ETV (1080p)
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 #EXTINF:-1 ,VTV
-https://cdn2.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
+https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
 #EXTINF:-1 tvg-id="SBN.mn" tvg-logo="https://i.imgur.com/E3fvpwn.png" group-title="Undefined",SBN
 https://cdn.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 ,TM
@@ -49,19 +49,19 @@ https://cdn.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
 #EXTINF:-1 tvg-id="MNBMongoliinMedee.mn" tvg-logo="https://i.imgur.com/KUvJzUD.png" group-title="Undefined",MNB Монголын Мэдээ
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 #EXTINF:-1 ,MNB_World
-https://cdn3.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MNB Гэр бүл
-https://cdn2.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
+https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
 #EXTINF:-1 ,Dreambox
-https://cdn3.skygo.mn/live/disk1/Dreambox/HLS-FTA/Dreambox.m3u8
+https://cdn4.skygo.mn/live/disk1/Dreambox/HLS-FTA/Dreambox.m3u8
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Mongolia HD
-https://cdn3.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1 tvg-id="ONTV.mn" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="Undefined",ONTV
-https://cdn2.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 #EXTINF:-1 ,Channel11
-https://cdn3.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
+https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
 #EXTINF:-1 ,MNCTV
-https://cdn2.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 ,UlziiTV
 https://cdn2.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1 ,TaliinMGLTV
