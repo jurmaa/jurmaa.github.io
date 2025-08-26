@@ -15,7 +15,7 @@ https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
 #EXTINF:-1 tvg-id="NTV.mn" tvg-logo="https://i.imgur.com/2JbqbPY.png" group-title="Undefined",NTV 
 https://cdn.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
 #EXTINF:-1 ,AsianBOX
-https://cdn3.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 #EXTINF:-1 tvg-id="UBS.mn" tvg-logo="https://i.imgur.com/dIRMYYd.png" group-title="Undefined",UBS
 https://cdn2.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
 #EXTINF:-1 tvg-id="TV5.mn" tvg-logo="https://i.imgur.com/asGQfGN.png" group-title="Undefined",TV5
