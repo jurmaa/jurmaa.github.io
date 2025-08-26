@@ -66,8 +66,8 @@ https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1 ,TaliinMGLTV
 https://cdn4.skygo.mn/live/disk1/TMGLTV/DASH-FTA/TMGLTV.mpd
-#EXTINF:-1 ,TV6
-https://cdn4.skygo.mn/live/disk1/Banner/DASH-FTA/Banner.mpd
+#EXTINF:-1 ,PTV
+https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
 #EXTINF:-1 ,TV7
 https://cdn4.skygo.mn/live/disk1/TV7/DASH-FTA/TV7.mpd
 #EXTINF:-1 ,SoyonGegeeruulegch
