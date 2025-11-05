@@ -10,8 +10,6 @@ https://cdn1.skygo.mn/live/disk1/Mongol_HD/LTV-MONGOLIA-DASH-CPIX/Mongol_HD.mpd
 https://cdn1.skygo.mn/live/disk1/Khugjim/DASH-FTA/Khugjim.mpd
 #EXTINF:-1 ,Malchin
 https://cdn1.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 ,inner Mongolia
-https://cdn.skygo.mn/live/disk1/NeigMGL/LTV-FOREIGN-DASH-FTA/NeigMGL.mpd
 #EXTINF:-1 ,Suld
 https://cdn1.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-id="TV8.mn" tvg-logo="https://i.imgur.com/EguOdxW.png" group-title="Undefined",TV8
