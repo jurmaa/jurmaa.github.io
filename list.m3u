@@ -93,3 +93,6 @@ https://cdn1.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 https://cdn1.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
 #EXTINF:-1 ,Sports 4
 https://cdn1.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
+#EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Global TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
