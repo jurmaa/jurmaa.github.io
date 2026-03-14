@@ -65,8 +65,9 @@ https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
 #EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://i.imgur.com/R6hxJgl.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Star TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1 tvg-id="TV9.mn" tvg-logo="https://i.imgur.com/QFteAgd.png" group-title="Undefined",TV9
-https://cdn1.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
+#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://i.imgur.com/QFteAgd.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV9 HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
 #EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Монголын Мэдээ (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
