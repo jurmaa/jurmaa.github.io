@@ -115,14 +115,14 @@ https://cdn1.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
 #EXTINF:-1 ,MNB2
 https://cdn1.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
-#EXTINF:-1 ,Sports 1
-https://cdn1.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
-#EXTINF:-1 ,Sports 2
-https://cdn1.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
-#EXTINF:-1 ,Sports 3
-https://cdn1.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
-#EXTINF:-1 ,Sports 4
-https://cdn1.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
+#EXTINF:-1 , tvg-id="",premier Sports 1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 , tvg-id="",premier Sports 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u
+#EXTINF:-1 , tvg-id="",premier Sports 3
+https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u
+#EXTINF:-1 , tvg-id="PremierSports4.mn@SD",premier Sports 4
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u
 #EXTINF:-1 tvg-id="GlobalTV.mn@SD" tvg-logo="https://i.imgur.com/Es5FX4z.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Global TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
